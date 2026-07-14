@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "cheesemod:cheessewood"
+  ],
+  "result": {
+    "id": "cheesemod:cheesewoodplanks",
+    "count": 4
+  }
+}

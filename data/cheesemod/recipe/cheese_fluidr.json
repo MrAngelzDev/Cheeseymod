@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "cheesemod:moltencheeseveggie",
+    "cheesemod:moltencheese",
+    "cheesemod:hypermoltencheese",
+    "cheesemod:cheese_string"
+  ],
+  "result": {
+    "id": "cheesemod:liquid_molten_cheese_bucket",
+    "count": 1
+  }
+}

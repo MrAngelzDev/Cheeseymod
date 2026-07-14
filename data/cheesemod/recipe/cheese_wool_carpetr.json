@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": "cheesemod:cheese_wool"
+  },
+  "result": {
+    "id": "cheesemod:cheese_wool_carpet",
+    "count": 1
+  }
+}

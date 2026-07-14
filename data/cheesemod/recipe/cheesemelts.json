@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "cheesemod:liquid_molten_cheese_bucket"
+  },
+  "result": {
+    "id": "cheesemod:hypermoltencheese",
+    "count": 4
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "cheesemod:cheesebiome",
+  "features": "cheesemod:cheesetree",
+  "step": "surface_structures"
+}

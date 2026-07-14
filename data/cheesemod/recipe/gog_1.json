@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd"
+  ],
+  "key": {
+    "a": "cheesemod:cheese_stick",
+    "b": "cheesemod:cheeseplant",
+    "c": "cheesemod:cheesepiece",
+    "d": "cheesemod:cheeseoreingot"
+  },
+  "result": {
+    "id": "cheesemod:hypercheese",
+    "count": 1
+  }
+}

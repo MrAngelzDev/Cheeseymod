@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": "cheesemod:cheesewoodplanks"
+  },
+  "result": {
+    "id": "cheesemod:cheesedoor",
+    "count": 3
+  }
+}

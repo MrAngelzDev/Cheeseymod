@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "cheesemod:cheesepiece",
+    "cheesemod:cheesefruit",
+    "cheesemod:cheeseoreingot"
+  ],
+  "result": {
+    "id": "cheesemod:hypercheese",
+    "count": 1
+  }
+}

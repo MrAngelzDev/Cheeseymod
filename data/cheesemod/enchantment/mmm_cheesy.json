@@ -1,0 +1,36 @@
+{
+  "description": {
+    "translate": "enchantment.cheesemod.mmm_cheesy"
+  },
+  "supported_items": [
+    "cheesemod:cheesesword",
+    "cheesemod:cheeseaxe",
+    "minecraft:stone_axe",
+    "minecraft:stone_sword",
+    "minecraft:diamond_axe",
+    "minecraft:diamond_sword",
+    "minecraft:iron_axe",
+    "minecraft:iron_sword",
+    "minecraft:golden_axe",
+    "minecraft:golden_sword",
+    "minecraft:wooden_axe",
+    "minecraft:wooden_sword",
+    "minecraft:netherite_axe",
+    "minecraft:netherite_sword"
+  ],
+  "weight": 10,
+  "max_level": 4,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 6,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 1,
+  "slots": [
+    "any"
+  ],
+  "exclusive_set": []
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "b"
+  ],
+  "key": {
+    "a": "cheesemod:cheeseoreingot",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "cheesemod:cheeseshovel",
+    "count": 1
+  }
+}

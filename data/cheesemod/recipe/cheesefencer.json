@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": "cheesemod:cheesewoodplanks",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "cheesemod:cheesefence",
+    "count": 3
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    " b",
+    " b"
+  ],
+  "key": {
+    "a": "cheesemod:hypercheese",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "cheesemod:cheesehoe",
+    "count": 1
+  }
+}

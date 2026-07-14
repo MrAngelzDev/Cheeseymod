@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:flint_and_steel",
+    "cheesemod:cheesepiece"
+  ],
+  "result": {
+    "id": "cheesemod:cheesydimention",
+    "count": 1
+  }
+}
